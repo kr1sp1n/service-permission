@@ -2,6 +2,7 @@
 
 Permissions as a service.
 
+
 ## install
 
 ## configure
@@ -21,5 +22,7 @@ npm start
 ```bash
 npm test
 ```
+
+---
 
 [express-jwt-permissions]: https://github.com/MichielDeMey/express-jwt-permissions
